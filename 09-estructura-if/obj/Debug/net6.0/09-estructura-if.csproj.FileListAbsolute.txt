@@ -1,0 +1,15 @@
+C:\Users\Jairo\source\c#\09-estructura-if\bin\Debug\net6.0\09-estructura-if.exe
+C:\Users\Jairo\source\c#\09-estructura-if\bin\Debug\net6.0\09-estructura-if.deps.json
+C:\Users\Jairo\source\c#\09-estructura-if\bin\Debug\net6.0\09-estructura-if.runtimeconfig.json
+C:\Users\Jairo\source\c#\09-estructura-if\bin\Debug\net6.0\09-estructura-if.dll
+C:\Users\Jairo\source\c#\09-estructura-if\bin\Debug\net6.0\09-estructura-if.pdb
+C:\Users\Jairo\source\c#\09-estructura-if\obj\Debug\net6.0\09-estructura-if.csproj.AssemblyReference.cache
+C:\Users\Jairo\source\c#\09-estructura-if\obj\Debug\net6.0\09-estructura-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\source\c#\09-estructura-if\obj\Debug\net6.0\09-estructura-if.AssemblyInfoInputs.cache
+C:\Users\Jairo\source\c#\09-estructura-if\obj\Debug\net6.0\09-estructura-if.AssemblyInfo.cs
+C:\Users\Jairo\source\c#\09-estructura-if\obj\Debug\net6.0\09-estructura-if.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\source\c#\09-estructura-if\obj\Debug\net6.0\09-estructura-if.dll
+C:\Users\Jairo\source\c#\09-estructura-if\obj\Debug\net6.0\refint\09-estructura-if.dll
+C:\Users\Jairo\source\c#\09-estructura-if\obj\Debug\net6.0\09-estructura-if.pdb
+C:\Users\Jairo\source\c#\09-estructura-if\obj\Debug\net6.0\09-estructura-if.genruntimeconfig.cache
+C:\Users\Jairo\source\c#\09-estructura-if\obj\Debug\net6.0\ref\09-estructura-if.dll

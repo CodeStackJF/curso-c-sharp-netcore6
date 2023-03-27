@@ -1,0 +1,15 @@
+C:\Users\Jairo\source\c#\01-hola-mundo\bin\Debug\net6.0\01-hola-mundo.exe
+C:\Users\Jairo\source\c#\01-hola-mundo\bin\Debug\net6.0\01-hola-mundo.deps.json
+C:\Users\Jairo\source\c#\01-hola-mundo\bin\Debug\net6.0\01-hola-mundo.runtimeconfig.json
+C:\Users\Jairo\source\c#\01-hola-mundo\bin\Debug\net6.0\01-hola-mundo.dll
+C:\Users\Jairo\source\c#\01-hola-mundo\bin\Debug\net6.0\01-hola-mundo.pdb
+C:\Users\Jairo\source\c#\01-hola-mundo\obj\Debug\net6.0\01-hola-mundo.csproj.AssemblyReference.cache
+C:\Users\Jairo\source\c#\01-hola-mundo\obj\Debug\net6.0\01-hola-mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\source\c#\01-hola-mundo\obj\Debug\net6.0\01-hola-mundo.AssemblyInfoInputs.cache
+C:\Users\Jairo\source\c#\01-hola-mundo\obj\Debug\net6.0\01-hola-mundo.AssemblyInfo.cs
+C:\Users\Jairo\source\c#\01-hola-mundo\obj\Debug\net6.0\01-hola-mundo.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\source\c#\01-hola-mundo\obj\Debug\net6.0\01-hola-mundo.dll
+C:\Users\Jairo\source\c#\01-hola-mundo\obj\Debug\net6.0\refint\01-hola-mundo.dll
+C:\Users\Jairo\source\c#\01-hola-mundo\obj\Debug\net6.0\01-hola-mundo.pdb
+C:\Users\Jairo\source\c#\01-hola-mundo\obj\Debug\net6.0\01-hola-mundo.genruntimeconfig.cache
+C:\Users\Jairo\source\c#\01-hola-mundo\obj\Debug\net6.0\ref\01-hola-mundo.dll

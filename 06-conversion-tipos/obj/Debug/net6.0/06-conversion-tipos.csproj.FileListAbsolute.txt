@@ -1,0 +1,15 @@
+C:\Users\Jairo\source\c#\06-conversion-tipos\bin\Debug\net6.0\06-conversion-tipos.exe
+C:\Users\Jairo\source\c#\06-conversion-tipos\bin\Debug\net6.0\06-conversion-tipos.deps.json
+C:\Users\Jairo\source\c#\06-conversion-tipos\bin\Debug\net6.0\06-conversion-tipos.runtimeconfig.json
+C:\Users\Jairo\source\c#\06-conversion-tipos\bin\Debug\net6.0\06-conversion-tipos.dll
+C:\Users\Jairo\source\c#\06-conversion-tipos\bin\Debug\net6.0\06-conversion-tipos.pdb
+C:\Users\Jairo\source\c#\06-conversion-tipos\obj\Debug\net6.0\06-conversion-tipos.csproj.AssemblyReference.cache
+C:\Users\Jairo\source\c#\06-conversion-tipos\obj\Debug\net6.0\06-conversion-tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\source\c#\06-conversion-tipos\obj\Debug\net6.0\06-conversion-tipos.AssemblyInfoInputs.cache
+C:\Users\Jairo\source\c#\06-conversion-tipos\obj\Debug\net6.0\06-conversion-tipos.AssemblyInfo.cs
+C:\Users\Jairo\source\c#\06-conversion-tipos\obj\Debug\net6.0\06-conversion-tipos.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\source\c#\06-conversion-tipos\obj\Debug\net6.0\06-conversion-tipos.dll
+C:\Users\Jairo\source\c#\06-conversion-tipos\obj\Debug\net6.0\refint\06-conversion-tipos.dll
+C:\Users\Jairo\source\c#\06-conversion-tipos\obj\Debug\net6.0\06-conversion-tipos.pdb
+C:\Users\Jairo\source\c#\06-conversion-tipos\obj\Debug\net6.0\06-conversion-tipos.genruntimeconfig.cache
+C:\Users\Jairo\source\c#\06-conversion-tipos\obj\Debug\net6.0\ref\06-conversion-tipos.dll

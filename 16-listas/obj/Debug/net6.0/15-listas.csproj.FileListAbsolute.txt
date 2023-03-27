@@ -1,0 +1,15 @@
+C:\Users\Jairo\source\c#\15-listas\bin\Debug\net6.0\15-listas.exe
+C:\Users\Jairo\source\c#\15-listas\bin\Debug\net6.0\15-listas.deps.json
+C:\Users\Jairo\source\c#\15-listas\bin\Debug\net6.0\15-listas.runtimeconfig.json
+C:\Users\Jairo\source\c#\15-listas\bin\Debug\net6.0\15-listas.dll
+C:\Users\Jairo\source\c#\15-listas\bin\Debug\net6.0\15-listas.pdb
+C:\Users\Jairo\source\c#\15-listas\obj\Debug\net6.0\15-listas.csproj.AssemblyReference.cache
+C:\Users\Jairo\source\c#\15-listas\obj\Debug\net6.0\15-listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\source\c#\15-listas\obj\Debug\net6.0\15-listas.AssemblyInfoInputs.cache
+C:\Users\Jairo\source\c#\15-listas\obj\Debug\net6.0\15-listas.AssemblyInfo.cs
+C:\Users\Jairo\source\c#\15-listas\obj\Debug\net6.0\15-listas.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\source\c#\15-listas\obj\Debug\net6.0\15-listas.dll
+C:\Users\Jairo\source\c#\15-listas\obj\Debug\net6.0\refint\15-listas.dll
+C:\Users\Jairo\source\c#\15-listas\obj\Debug\net6.0\15-listas.pdb
+C:\Users\Jairo\source\c#\15-listas\obj\Debug\net6.0\15-listas.genruntimeconfig.cache
+C:\Users\Jairo\source\c#\15-listas\obj\Debug\net6.0\ref\15-listas.dll

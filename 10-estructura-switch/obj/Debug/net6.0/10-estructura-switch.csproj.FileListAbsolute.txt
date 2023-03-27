@@ -1,0 +1,15 @@
+C:\Users\Jairo\source\c#\10-estructura-switch\bin\Debug\net6.0\10-estructura-switch.exe
+C:\Users\Jairo\source\c#\10-estructura-switch\bin\Debug\net6.0\10-estructura-switch.deps.json
+C:\Users\Jairo\source\c#\10-estructura-switch\bin\Debug\net6.0\10-estructura-switch.runtimeconfig.json
+C:\Users\Jairo\source\c#\10-estructura-switch\bin\Debug\net6.0\10-estructura-switch.dll
+C:\Users\Jairo\source\c#\10-estructura-switch\bin\Debug\net6.0\10-estructura-switch.pdb
+C:\Users\Jairo\source\c#\10-estructura-switch\obj\Debug\net6.0\10-estructura-switch.csproj.AssemblyReference.cache
+C:\Users\Jairo\source\c#\10-estructura-switch\obj\Debug\net6.0\10-estructura-switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\source\c#\10-estructura-switch\obj\Debug\net6.0\10-estructura-switch.AssemblyInfoInputs.cache
+C:\Users\Jairo\source\c#\10-estructura-switch\obj\Debug\net6.0\10-estructura-switch.AssemblyInfo.cs
+C:\Users\Jairo\source\c#\10-estructura-switch\obj\Debug\net6.0\10-estructura-switch.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\source\c#\10-estructura-switch\obj\Debug\net6.0\10-estructura-switch.dll
+C:\Users\Jairo\source\c#\10-estructura-switch\obj\Debug\net6.0\refint\10-estructura-switch.dll
+C:\Users\Jairo\source\c#\10-estructura-switch\obj\Debug\net6.0\10-estructura-switch.pdb
+C:\Users\Jairo\source\c#\10-estructura-switch\obj\Debug\net6.0\10-estructura-switch.genruntimeconfig.cache
+C:\Users\Jairo\source\c#\10-estructura-switch\obj\Debug\net6.0\ref\10-estructura-switch.dll

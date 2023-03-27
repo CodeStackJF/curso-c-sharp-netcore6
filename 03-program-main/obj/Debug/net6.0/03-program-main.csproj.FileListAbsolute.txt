@@ -1,0 +1,15 @@
+C:\Users\Jairo\source\c#\03-program-main\bin\Debug\net6.0\03-program-main.exe
+C:\Users\Jairo\source\c#\03-program-main\bin\Debug\net6.0\03-program-main.deps.json
+C:\Users\Jairo\source\c#\03-program-main\bin\Debug\net6.0\03-program-main.runtimeconfig.json
+C:\Users\Jairo\source\c#\03-program-main\bin\Debug\net6.0\03-program-main.dll
+C:\Users\Jairo\source\c#\03-program-main\bin\Debug\net6.0\03-program-main.pdb
+C:\Users\Jairo\source\c#\03-program-main\obj\Debug\net6.0\03-program-main.csproj.AssemblyReference.cache
+C:\Users\Jairo\source\c#\03-program-main\obj\Debug\net6.0\03-program-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\source\c#\03-program-main\obj\Debug\net6.0\03-program-main.AssemblyInfoInputs.cache
+C:\Users\Jairo\source\c#\03-program-main\obj\Debug\net6.0\03-program-main.AssemblyInfo.cs
+C:\Users\Jairo\source\c#\03-program-main\obj\Debug\net6.0\03-program-main.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\source\c#\03-program-main\obj\Debug\net6.0\03-program-main.dll
+C:\Users\Jairo\source\c#\03-program-main\obj\Debug\net6.0\refint\03-program-main.dll
+C:\Users\Jairo\source\c#\03-program-main\obj\Debug\net6.0\03-program-main.pdb
+C:\Users\Jairo\source\c#\03-program-main\obj\Debug\net6.0\03-program-main.genruntimeconfig.cache
+C:\Users\Jairo\source\c#\03-program-main\obj\Debug\net6.0\ref\03-program-main.dll

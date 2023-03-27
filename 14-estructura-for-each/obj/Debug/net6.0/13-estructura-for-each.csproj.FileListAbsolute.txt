@@ -1,0 +1,15 @@
+C:\Users\Jairo\source\c#\13-estructura-for-each\bin\Debug\net6.0\13-estructura-for-each.exe
+C:\Users\Jairo\source\c#\13-estructura-for-each\bin\Debug\net6.0\13-estructura-for-each.deps.json
+C:\Users\Jairo\source\c#\13-estructura-for-each\bin\Debug\net6.0\13-estructura-for-each.runtimeconfig.json
+C:\Users\Jairo\source\c#\13-estructura-for-each\bin\Debug\net6.0\13-estructura-for-each.dll
+C:\Users\Jairo\source\c#\13-estructura-for-each\bin\Debug\net6.0\13-estructura-for-each.pdb
+C:\Users\Jairo\source\c#\13-estructura-for-each\obj\Debug\net6.0\13-estructura-for-each.csproj.AssemblyReference.cache
+C:\Users\Jairo\source\c#\13-estructura-for-each\obj\Debug\net6.0\13-estructura-for-each.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\source\c#\13-estructura-for-each\obj\Debug\net6.0\13-estructura-for-each.AssemblyInfoInputs.cache
+C:\Users\Jairo\source\c#\13-estructura-for-each\obj\Debug\net6.0\13-estructura-for-each.AssemblyInfo.cs
+C:\Users\Jairo\source\c#\13-estructura-for-each\obj\Debug\net6.0\13-estructura-for-each.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\source\c#\13-estructura-for-each\obj\Debug\net6.0\13-estructura-for-each.dll
+C:\Users\Jairo\source\c#\13-estructura-for-each\obj\Debug\net6.0\refint\13-estructura-for-each.dll
+C:\Users\Jairo\source\c#\13-estructura-for-each\obj\Debug\net6.0\13-estructura-for-each.pdb
+C:\Users\Jairo\source\c#\13-estructura-for-each\obj\Debug\net6.0\13-estructura-for-each.genruntimeconfig.cache
+C:\Users\Jairo\source\c#\13-estructura-for-each\obj\Debug\net6.0\ref\13-estructura-for-each.dll

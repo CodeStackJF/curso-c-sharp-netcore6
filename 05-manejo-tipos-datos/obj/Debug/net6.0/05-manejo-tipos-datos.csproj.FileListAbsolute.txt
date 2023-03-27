@@ -1,0 +1,15 @@
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\bin\Debug\net6.0\05-manejo-tipos-datos.exe
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\bin\Debug\net6.0\05-manejo-tipos-datos.deps.json
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\bin\Debug\net6.0\05-manejo-tipos-datos.runtimeconfig.json
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\bin\Debug\net6.0\05-manejo-tipos-datos.dll
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\bin\Debug\net6.0\05-manejo-tipos-datos.pdb
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\obj\Debug\net6.0\05-manejo-tipos-datos.csproj.AssemblyReference.cache
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\obj\Debug\net6.0\05-manejo-tipos-datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\obj\Debug\net6.0\05-manejo-tipos-datos.AssemblyInfoInputs.cache
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\obj\Debug\net6.0\05-manejo-tipos-datos.AssemblyInfo.cs
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\obj\Debug\net6.0\05-manejo-tipos-datos.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\obj\Debug\net6.0\05-manejo-tipos-datos.dll
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\obj\Debug\net6.0\refint\05-manejo-tipos-datos.dll
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\obj\Debug\net6.0\05-manejo-tipos-datos.pdb
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\obj\Debug\net6.0\05-manejo-tipos-datos.genruntimeconfig.cache
+C:\Users\Jairo\source\c#\05-manejo-tipos-datos\obj\Debug\net6.0\ref\05-manejo-tipos-datos.dll

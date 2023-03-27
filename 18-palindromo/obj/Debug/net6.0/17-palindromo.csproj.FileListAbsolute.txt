@@ -1,0 +1,15 @@
+C:\Users\Jairo\source\c#\17-palindromo\bin\Debug\net6.0\17-palindromo.exe
+C:\Users\Jairo\source\c#\17-palindromo\bin\Debug\net6.0\17-palindromo.deps.json
+C:\Users\Jairo\source\c#\17-palindromo\bin\Debug\net6.0\17-palindromo.runtimeconfig.json
+C:\Users\Jairo\source\c#\17-palindromo\bin\Debug\net6.0\17-palindromo.dll
+C:\Users\Jairo\source\c#\17-palindromo\bin\Debug\net6.0\17-palindromo.pdb
+C:\Users\Jairo\source\c#\17-palindromo\obj\Debug\net6.0\17-palindromo.csproj.AssemblyReference.cache
+C:\Users\Jairo\source\c#\17-palindromo\obj\Debug\net6.0\17-palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\source\c#\17-palindromo\obj\Debug\net6.0\17-palindromo.AssemblyInfoInputs.cache
+C:\Users\Jairo\source\c#\17-palindromo\obj\Debug\net6.0\17-palindromo.AssemblyInfo.cs
+C:\Users\Jairo\source\c#\17-palindromo\obj\Debug\net6.0\17-palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\source\c#\17-palindromo\obj\Debug\net6.0\17-palindromo.dll
+C:\Users\Jairo\source\c#\17-palindromo\obj\Debug\net6.0\refint\17-palindromo.dll
+C:\Users\Jairo\source\c#\17-palindromo\obj\Debug\net6.0\17-palindromo.pdb
+C:\Users\Jairo\source\c#\17-palindromo\obj\Debug\net6.0\17-palindromo.genruntimeconfig.cache
+C:\Users\Jairo\source\c#\17-palindromo\obj\Debug\net6.0\ref\17-palindromo.dll

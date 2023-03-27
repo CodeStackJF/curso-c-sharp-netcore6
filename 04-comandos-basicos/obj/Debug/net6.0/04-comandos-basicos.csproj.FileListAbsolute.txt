@@ -1,0 +1,15 @@
+C:\Users\Jairo\source\c#\04-comandos-basicos\bin\Debug\net6.0\04-comandos-basicos.exe
+C:\Users\Jairo\source\c#\04-comandos-basicos\bin\Debug\net6.0\04-comandos-basicos.deps.json
+C:\Users\Jairo\source\c#\04-comandos-basicos\bin\Debug\net6.0\04-comandos-basicos.runtimeconfig.json
+C:\Users\Jairo\source\c#\04-comandos-basicos\bin\Debug\net6.0\04-comandos-basicos.dll
+C:\Users\Jairo\source\c#\04-comandos-basicos\bin\Debug\net6.0\04-comandos-basicos.pdb
+C:\Users\Jairo\source\c#\04-comandos-basicos\obj\Debug\net6.0\04-comandos-basicos.csproj.AssemblyReference.cache
+C:\Users\Jairo\source\c#\04-comandos-basicos\obj\Debug\net6.0\04-comandos-basicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\source\c#\04-comandos-basicos\obj\Debug\net6.0\04-comandos-basicos.AssemblyInfoInputs.cache
+C:\Users\Jairo\source\c#\04-comandos-basicos\obj\Debug\net6.0\04-comandos-basicos.AssemblyInfo.cs
+C:\Users\Jairo\source\c#\04-comandos-basicos\obj\Debug\net6.0\04-comandos-basicos.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\source\c#\04-comandos-basicos\obj\Debug\net6.0\04-comandos-basicos.dll
+C:\Users\Jairo\source\c#\04-comandos-basicos\obj\Debug\net6.0\refint\04-comandos-basicos.dll
+C:\Users\Jairo\source\c#\04-comandos-basicos\obj\Debug\net6.0\04-comandos-basicos.pdb
+C:\Users\Jairo\source\c#\04-comandos-basicos\obj\Debug\net6.0\04-comandos-basicos.genruntimeconfig.cache
+C:\Users\Jairo\source\c#\04-comandos-basicos\obj\Debug\net6.0\ref\04-comandos-basicos.dll

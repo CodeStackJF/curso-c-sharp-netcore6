@@ -1,0 +1,15 @@
+C:\Users\Jairo\source\c#\16-dictionary\bin\Debug\net6.0\16-dictionary.exe
+C:\Users\Jairo\source\c#\16-dictionary\bin\Debug\net6.0\16-dictionary.deps.json
+C:\Users\Jairo\source\c#\16-dictionary\bin\Debug\net6.0\16-dictionary.runtimeconfig.json
+C:\Users\Jairo\source\c#\16-dictionary\bin\Debug\net6.0\16-dictionary.dll
+C:\Users\Jairo\source\c#\16-dictionary\bin\Debug\net6.0\16-dictionary.pdb
+C:\Users\Jairo\source\c#\16-dictionary\obj\Debug\net6.0\16-dictionary.csproj.AssemblyReference.cache
+C:\Users\Jairo\source\c#\16-dictionary\obj\Debug\net6.0\16-dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\source\c#\16-dictionary\obj\Debug\net6.0\16-dictionary.AssemblyInfoInputs.cache
+C:\Users\Jairo\source\c#\16-dictionary\obj\Debug\net6.0\16-dictionary.AssemblyInfo.cs
+C:\Users\Jairo\source\c#\16-dictionary\obj\Debug\net6.0\16-dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\source\c#\16-dictionary\obj\Debug\net6.0\16-dictionary.dll
+C:\Users\Jairo\source\c#\16-dictionary\obj\Debug\net6.0\refint\16-dictionary.dll
+C:\Users\Jairo\source\c#\16-dictionary\obj\Debug\net6.0\16-dictionary.pdb
+C:\Users\Jairo\source\c#\16-dictionary\obj\Debug\net6.0\16-dictionary.genruntimeconfig.cache
+C:\Users\Jairo\source\c#\16-dictionary\obj\Debug\net6.0\ref\16-dictionary.dll
